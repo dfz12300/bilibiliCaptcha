@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-14T05:47:55.599Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.60" etag="gGCM1Ms2UjMuVGfTJpfE" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-14T05:48:49.437Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.60" etag="zU6c2RX7-9wloW5LDI9B" version="22.0.4" type="github">
   <diagram name="Page-1" id="0783ab3e-0a74-02c8-0abd-f7b4e66b4bec">
     <mxGraphModel dx="1386" dy="793" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
@@ -94,7 +94,7 @@
         </mxCell>
         <mxCell id="Y_Ui5xSCy49zF02Gsvw7-58" value=" all monsters have been defeated" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Y_Ui5xSCy49zF02Gsvw7-57">
           <mxGeometry x="-0.0933" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="1" y="22" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Y_Ui5xSCy49zF02Gsvw7-76" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1c1d494c118603dd-3" source="Y_Ui5xSCy49zF02Gsvw7-80" target="Y_Ui5xSCy49zF02Gsvw7-3">
@@ -121,8 +121,8 @@
             <mxPoint x="187" y="750" as="targetPoint" />
             <Array as="points">
               <mxPoint x="250" y="750" />
-              <mxPoint x="250" y="710" />
-              <mxPoint x="44" y="710" />
+              <mxPoint x="250" y="720" />
+              <mxPoint x="44" y="720" />
               <mxPoint x="44" y="265" />
             </Array>
           </mxGeometry>
