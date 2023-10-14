@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-14T05:59:17.421Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.60" etag="jcI4_ScvYIiyfsSQXdoa" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-14T05:59:53.570Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.60" etag="9RG3tq8Fj160dZ28lLE_" version="22.0.4" type="github">
   <diagram name="Page-1" id="0783ab3e-0a74-02c8-0abd-f7b4e66b4bec">
     <mxGraphModel dx="1386" dy="793" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
@@ -148,6 +148,15 @@
             <mxPoint x="282" y="620" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="Y_Ui5xSCy49zF02Gsvw7-93" value="launch window and load&amp;nbsp; map layout" style="shape=note;whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;size=20;" vertex="1" parent="1c1d494c118603dd-3">
+          <mxGeometry x="48" y="40" width="126" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="Y_Ui5xSCy49zF02Gsvw7-73" style="edgeStyle=none;rounded=0;html=1;dashed=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=oval;endFill=0;endSize=5;jettySize=auto;orthogonalLoop=1;strokeWidth=1;fontFamily=Verdana;fontSize=12" edge="1" parent="1c1d494c118603dd-3" source="60571a20871a0731-3" target="Y_Ui5xSCy49zF02Gsvw7-93">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="559" y="427" as="sourcePoint" />
+            <mxPoint x="730" y="116" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="1c1d494c118603dd-51" style="edgeStyle=none;rounded=0;html=1;dashed=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=oval;endFill=0;endSize=5;jettySize=auto;orthogonalLoop=1;strokeWidth=1;fontFamily=Verdana;fontSize=12" parent="1c1d494c118603dd-1" source="1c1d494c118603dd-22" target="1c1d494c118603dd-9" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="700" y="437.16389244558263" as="sourcePoint" />
@@ -183,15 +192,6 @@
         </mxCell>
         <mxCell id="Y_Ui5xSCy49zF02Gsvw7-33" value="Mana pool spell" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;" vertex="1" parent="1c1d494c118603dd-4">
           <mxGeometry x="110" y="610" width="100" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Y_Ui5xSCy49zF02Gsvw7-92" value="launch window and load&amp;nbsp; map layout" style="shape=note;whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;size=20;" vertex="1" parent="1c1d494c118603dd-4">
-          <mxGeometry x="270" y="78.5" width="126" height="75" as="geometry" />
-        </mxCell>
-        <mxCell id="Y_Ui5xSCy49zF02Gsvw7-73" style="edgeStyle=none;rounded=0;html=1;dashed=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=oval;endFill=0;endSize=5;jettySize=auto;orthogonalLoop=1;strokeWidth=1;fontFamily=Verdana;fontSize=12" edge="1" parent="1c1d494c118603dd-4" source="60571a20871a0731-8" target="Y_Ui5xSCy49zF02Gsvw7-92">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="99" y="427" as="sourcePoint" />
-            <mxPoint x="-326.3780487804879" y="125" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="1c1d494c118603dd-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeWidth=1;fontFamily=Verdana;fontSize=12" parent="1c1d494c118603dd-1" source="60571a20871a0731-8" target="60571a20871a0731-3" edge="1">
           <mxGeometry relative="1" as="geometry">
